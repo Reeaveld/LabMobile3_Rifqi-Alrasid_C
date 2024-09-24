@@ -2,12 +2,13 @@
 Aplikasi Story Reader
 
 # Screenshot
-![image](https://github.com/user-attachments/assets/725c3118-7462-49c0-bc1f-99003be1ee63)
-![image](https://github.com/user-attachments/assets/b47381dc-85b8-4e5e-9d24-9de1b176974d)
-![image](https://github.com/user-attachments/assets/c7513244-570f-49a5-838d-527b1a9fdb23)
-![image](https://github.com/user-attachments/assets/0b936ecf-f184-4a54-8071-c588c596f7bf)
-![image](https://github.com/user-attachments/assets/0035c6a8-ca27-4441-8843-450286db6192)
-![image](https://github.com/user-attachments/assets/930d1b79-3d43-422d-8938-6767e827460a)
+![Screenshot 2024-09-24 232937](https://github.com/user-attachments/assets/bcaaefb4-080a-4378-90a8-182df70e8c8a)
+![Screenshot 2024-09-24 233012](https://github.com/user-attachments/assets/bb29e379-5746-40b1-8bbe-8624c7d09248)
+![Screenshot 2024-09-24 233029](https://github.com/user-attachments/assets/d8dbdb64-239e-42d4-aeac-897600bbc35c)
+![Screenshot 2024-09-24 233055](https://github.com/user-attachments/assets/b8e4f973-b8c4-44de-a507-960590e7ea09)
+![Screenshot 2024-09-24 233246](https://github.com/user-attachments/assets/ba6e5d5e-7efe-4a4d-8cf1-7265f6cb8974)
+![Screenshot 2024-09-24 233312](https://github.com/user-attachments/assets/92a239a8-4ccc-4213-a627-1535afdd4439)
+
 
 
 # Penjelasan Code
