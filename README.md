@@ -2,12 +2,12 @@
 Aplikasi Story Reader
 
 # Screenshot
-![Screenshot 2024-09-24 232937](https://github.com/user-attachments/assets/bcaaefb4-080a-4378-90a8-182df70e8c8a)
-![Screenshot 2024-09-24 233012](https://github.com/user-attachments/assets/bb29e379-5746-40b1-8bbe-8624c7d09248)
-![Screenshot 2024-09-24 233029](https://github.com/user-attachments/assets/d8dbdb64-239e-42d4-aeac-897600bbc35c)
-![Screenshot 2024-09-24 233055](https://github.com/user-attachments/assets/b8e4f973-b8c4-44de-a507-960590e7ea09)
-![Screenshot 2024-09-24 233246](https://github.com/user-attachments/assets/ba6e5d5e-7efe-4a4d-8cf1-7265f6cb8974)
-![Screenshot 2024-09-24 233312](https://github.com/user-attachments/assets/92a239a8-4ccc-4213-a627-1535afdd4439)
+![Screenshot 2024-09-24 233012](https://github.com/user-attachments/assets/18ab13d6-c0af-4413-8310-9b5a30e32e8f)
+![Screenshot 2024-09-24 233029](https://github.com/user-attachments/assets/bb6ba828-ceee-48c1-b8af-7b6a7df7432b)
+![Screenshot 2024-09-24 233055](https://github.com/user-attachments/assets/4a3b9bea-a78a-474d-82ac-d03a02e9dade)
+![Screenshot 2024-09-24 233246](https://github.com/user-attachments/assets/3f3fe13b-ca00-4409-8bb9-df30737c45d1)
+![Screenshot 2024-09-24 233312](https://github.com/user-attachments/assets/7da57c37-8358-4cd1-beb0-214dabb6fc1a)
+![Screenshot 2024-09-24 232937](https://github.com/user-attachments/assets/7befef8d-6e56-4fad-ab5f-a0a8b18dfc52)
 
 
 
